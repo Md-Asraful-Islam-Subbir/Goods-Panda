@@ -109,7 +109,8 @@ body {
 
 .watch {
     background: linear-gradient(45deg, #ff9a44, #ff6a00);
-    font-size: medium 36px;
+    font-size: 36px;
+    font-weight: 500;
     padding-left: 2rem;
 }
 
